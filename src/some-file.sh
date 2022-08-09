@@ -1,5 +1,3 @@
 #!/bin/bash
 
-echo "foo"
-
-echo "bar"
+echo "GraphQL!"
