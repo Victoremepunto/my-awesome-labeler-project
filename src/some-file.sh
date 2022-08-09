@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "GraphQL!"
+echo "third's a charm"
